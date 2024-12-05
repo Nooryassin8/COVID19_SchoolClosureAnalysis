@@ -121,4 +121,4 @@ Data Sources: Review the data processing steps and raw data files for context.
 Insights: Use the interactive visuals to explore correlations and policy effectiveness.
 
 ![School Closures ](https://github.com/Nooryassin8/COVID19_SchoolClosureAnalysis/blob/main/Screenshot%202024-12-04%20165255.png)
-[Top 5]  (https://github.com/Nooryassin8/COVID19_SchoolClosureAnalysis/blob/main/Screenshot%202024-12-04%20165310.png)
+![Top 5]  (https://github.com/Nooryassin8/COVID19_SchoolClosureAnalysis/blob/main/Screenshot%202024-12-04%20165310.png)
