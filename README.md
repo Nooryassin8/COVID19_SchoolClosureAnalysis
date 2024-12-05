@@ -125,3 +125,5 @@ Insights: Use the interactive visuals to explore correlations and policy effecti
 [TOP 5]  ( https://github.com/Nooryassin8/COVID19_SchoolClosureAnalysis/blob/main/Screenshot%202024-12-04%20165310.png )
 
 [Drill Through] ( https://github.com/Nooryassin8/COVID19_SchoolClosureAnalysis/blob/main/Screenshot%202024-12-04%20165325.png )
+
+[Admin Page] (https://github.com/Nooryassin8/COVID19_SchoolClosureAnalysis/blob/main/Screenshot%202024-12-04%20165336.png)
